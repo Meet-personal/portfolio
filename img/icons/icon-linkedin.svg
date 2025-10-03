@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linkedinGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A66C2"/>
+      <stop offset="100%" style="stop-color:#004182"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="url(#linkedinGradient)" stroke="#0A66C2" stroke-width="2"/>
+  <rect x="16" y="16" width="32" height="32" rx="4" fill="white"/>
+  <rect x="20" y="20" width="6" height="6" rx="1" fill="#0A66C2"/>
+  <rect x="20" y="28" width="6" height="16" fill="#0A66C2"/>
+  <rect x="28" y="28" width="6" height="16" fill="#0A66C2"/>
+  <rect x="36" y="32" width="6" height="12" fill="#0A66C2"/>
+  <rect x="36" y="28" width="6" height="2" fill="#0A66C2"/>
+  <path d="M28 32 Q32 28, 36 32" stroke="#0A66C2" stroke-width="1" fill="none"/>
+</svg>

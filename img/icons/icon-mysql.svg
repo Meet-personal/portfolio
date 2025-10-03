@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="mysqlGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4479A1"/>
+      <stop offset="100%" style="stop-color:#00758F"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="url(#mysqlGradient)" stroke="#4479A1" stroke-width="2"/>
+  <rect x="18" y="20" width="28" height="18" rx="2" fill="white" opacity="0.9"/>
+  <rect x="20" y="22" width="24" height="2" fill="#4479A1"/>
+  <rect x="20" y="26" width="24" height="2" fill="#4479A1"/>
+  <rect x="20" y="30" width="24" height="2" fill="#4479A1"/>
+  <rect x="20" y="34" width="24" height="2" fill="#4479A1"/>
+  <text x="32" y="50" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="white">MySQL</text>
+</svg>
